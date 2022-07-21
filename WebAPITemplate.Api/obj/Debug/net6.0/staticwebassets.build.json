@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "uzPweU1WrWL116EBhBp4gN7JGkDRIX2cGI9WGKuccJc=",
+  "Source": "WebAPITemplate.Api",
+  "BasePath": "_content/WebAPITemplate.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPITemplate.Api\\wwwroot",
+      "Source": "WebAPITemplate.Api",
+      "ContentRoot": "C:\\Users\\leona\\Desktop\\Code\\Fullstack\\Templates\\WebAPITemplate.Api\\WebAPITemplate.Api\\wwwroot\\",
+      "BasePath": "_content/WebAPITemplate.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
